@@ -1,0 +1,56 @@
+/* Reset Page */
+
+body{
+    font-family: 'once sans' sans-serif;
+    background: url(../img/reset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cantainer3{
+    width: 60%;
+    margin: 10% auto;   
+}
+.Reset-Section{
+    background-color: rgba(6, 117, 161, 0.486);
+    padding: 25px;
+}
+.Reset-Section img{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+.Reset-Section h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 10px 0px;
+}
+.ten{
+    width: 98%;
+    height: 35px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.reset{
+    background: rgba(255, 208, 0, 0.897);
+    color:rgb(0, 0, 0);
+    padding: 5px 20px;
+    margin: 0px auto;
+    display: block;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+}
+.reset:hover{
+    cursor: pointer;
+    box-shadow: 1px 2px 4px #ffff; 
+}
+.six{
+    color: white;
+    font-size: 15px;
+}

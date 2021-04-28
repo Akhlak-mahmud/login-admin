@@ -1,0 +1,65 @@
+/* Register Page */
+
+body{
+    font-family: 'once sans' sans-serif;
+    background: url(../img/hilton\ Beach2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cantainer2{
+    width: 50%;
+    margin: 10% auto;   
+}
+.Regester-Section{
+    background-color: rgba(69, 4, 129, 0.452);
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 35px;
+    margin-right: 25px;
+
+}
+.Regester-Section img{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+.Regester-Section h2{
+    text-align: center;
+    color:black;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 10px 0px;
+    
+}
+.four{
+    width: 30%;
+    height: 25px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 20px;
+    
+}
+.register{
+    background: rgba(255, 208, 0, 0.897);
+    color:rgb(0, 0, 0);
+    padding: 5px 20px;
+    margin: 0px auto;
+    display: block;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+}
+.register:hover{
+    cursor: pointer;
+    box-shadow: 1px 2px 4px whitesmoke;
+}
+.three{
+    color:rgb(255, 251, 5);
+    font-size: 20px;
+    margin-left: 20px;
+}

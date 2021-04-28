@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'once sans' sans-serif;
+    background: url(../img/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cantainer{
+    width: 60%;
+    margin: 10% auto;   
+}
+.Login-Section{
+    background-color: rgba(6, 21, 161, 0.534);
+    padding: 25px;
+}
+.Login-Section img{
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+.Login-Section h2{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 10px 0px;
+}
+.one{
+    width: 98%;
+    height: 35px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.button{
+    background: rgba(255, 208, 0, 0.897);
+    color:rgb(0, 0, 0);
+    padding: 5px 20px;
+    margin: 0px auto;
+    display: block;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+}
+.button:hover{
+    cursor: pointer;
+    box-shadow: 1px 2px 4px whitesmoke; 
+}
+.two{
+    color: white;
+    font-size: 15px;
+}
